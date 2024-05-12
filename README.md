@@ -28,7 +28,7 @@ This is a practice project where users can add and remove cards dynamically. The
 
 ## Demo
 
-[View Demo](#https://addremovecards.netlify.app/)
+[View Demo](https://addremovecards.netlify.app/)
 
 ## Getting Started
 
